@@ -1,0 +1,25 @@
+// Descriptive color variables
+
+$teal-green : #58e1c1;
+$dark-grey : #777;
+$purple-mountains-majesty : #927bc1;
+$coral : #fd7856;
+$french-lilac : #deb2ee;
+
+
+// Functional color variables
+
+$color-prim         : $teal-green;
+$color-sec          : $dark-grey;
+
+
+$color-col-1        : $purple-mountains-majesty;
+$color-col-2        : $coral; 
+$color-col-3        : $french-lilac;
+
+// Media query breakpoints
+
+$brk-narrow : '(min-width: 768px)';
+
+
+
