@@ -4,7 +4,7 @@
   /* ============================================= */
   /*              Media Queries                    */
   /* ============================================= */
-  @media (min-width: 768px) {
+  @media #{$brk-narrow}{
   
     .centered {
       display: block;
